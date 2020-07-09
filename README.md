@@ -1,5 +1,4 @@
-# gogame_app
-
+# GoGame App
 GoGame Flutter application.
 ## Used
 - DartFlutter
